@@ -28,9 +28,13 @@ How many symbols would you like?
 4
 How many numbers would you like?
 4
+
 ['B', 'X', 'f', 'e', '#', '!', '+', ')', '2', '3', '2', '6']
+
 ['f', 'X', 'B', '+', '2', 'e', ')', '2', '6', '#', '!', '3']
+
 Your password is: fXB+2e)26#!3
+
 ✅ Password copied to clipboard! 📋
 ****************************************
 
