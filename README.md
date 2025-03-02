@@ -22,11 +22,17 @@ Usage and Working: -
 📄 Example Output: -
 
 Welcome to the PyPassword Generator!
+
 How many letters would you like in your password?
+
 4
+
 How many symbols would you like?
+
 4
+
 How many numbers would you like?
+
 4
 
 ['B', 'X', 'f', 'e', '#', '!', '+', ')', '2', '3', '2', '6']
