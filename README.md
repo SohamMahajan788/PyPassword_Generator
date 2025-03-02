@@ -48,6 +48,17 @@ Technologies Used
 - Python🐍
 - random module – To generate random characters.
 - pyperclip module – To copy passwords to the clipboard.📋
+
+****************************************
+
+🔗 Follow My Coding Journey:
+
+LinkedIn: https://www.linkedin.com/in/sohammahajan788
+
+Twitter (X): https://x.com/SohamMahajan788
+
+GitHub: https://github.com/SohamMahajan788
+
 ****************************************
 🔗 Contribution
 
