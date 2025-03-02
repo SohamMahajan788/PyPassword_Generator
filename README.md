@@ -45,9 +45,9 @@ Your password is: fXB+2e)26#!3
 ****************************************
 
 Technologies Used
-- Python
+- Python🐍
 - random module – To generate random characters.
-- pyperclip module – To copy passwords to the clipboard.
+- pyperclip module – To copy passwords to the clipboard.📋
 ****************************************
 🔗 Contribution
 
