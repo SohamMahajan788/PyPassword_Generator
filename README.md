@@ -4,8 +4,11 @@ Description:
 -PyPassword Generator is a Python-based CLI tool that helps users generate strong, randomized passwords based on their preferences. Users can customize the number of letters, symbols, and numbers, and the tool ensures security by shuffling the characters and automatically copying the final password to the clipboard.
 
 ✨ Features:-
+
 ✅ Customizable Password Length – Users decide the number of letters, symbols, and numbers.
+
 🔀 Randomized & Secure – Uses Python's random module for maximum security.
+
 📋 Copy to Clipboard – Uses the pyperclip module to auto-copy passwords.
 
 🛠️ Installation Procedure: -
